@@ -44,5 +44,5 @@ for(const animal of animais){
 const cachorro = animais[0];
 console.log(cachorro.latir());
 
-const gatos = animais[1];
+const gato = animais[1];
 console.log(gato.miar());
